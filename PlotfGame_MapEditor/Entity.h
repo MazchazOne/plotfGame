@@ -1,5 +1,5 @@
 #pragma once
-#include<SFML\Graphics.hpp>
+ #include<SFML\Graphics.hpp>
 
 struct ControlKey
 {
@@ -10,30 +10,39 @@ protected:
 	sf::Keyboard::Key Left;
 };
 
-class Player: ControlKey
+class EntityBase
+{
+protected:
+	int Gravity; 
+	float width;
+	float length;
+public:
+
+};
+
+class Player: ControlKey, EntityBase
 {
 private:
-	static int Gravity; 
+	
 	int JumpForce;
 	int Speed;
 	int speedX;
 	int speedY;
-	float width;
-	float length;
+	bool RightWall, LeftWall;
 
 	bool Walking;
 	sf::RectangleShape RectPlayer;
-	sf::Texture Texture;
+
+	sf::Vector2f LastCoord;
 	
 public:
-	sf::Vector3f Environment[4] = { };
 	Player();
 	Player(sf::Vector2f coord);
-	void SetControl(sf::Keyboard::Key Up, sf::Keyboard::Key Down, sf::Keyboard::Key Right, sf::Keyboard::Key Left);
-	void SetTexture(sf::Texture texture);
+	void SetControl(sf::Keyboard::Key Up, sf::Keyboard::Key Down, sf::Keyboard::Key Right, sf::Keyboard::Key Left);;
 	void Force(sf::Time* Time);
 	void Control(sf::Time* Time);
 	sf::Vector2f getCoordinate();
 	sf::RectangleShape* getRectangle();
-	void Collision(std::vector<std::vector<int>> coord, std::vector<Block> idBlock);
+	void Collision(std::vector<std::vector<bool>>&);
+	void UpdateLastCoord();
 };
