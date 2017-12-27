@@ -1,33 +1,13 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PlotfGame_MapEditor.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-cl : командная строка warning D9028: сбой минимальной повторной сборки, возврат к обычной сборке
-  Entity.cpp
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(65): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(66): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(67): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(68): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(69): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(70): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(71): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(72): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(76): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(77): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(78): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(79): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(80): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(81): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(82): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(83): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(93): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(94): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(95): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(96): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(99): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(100): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(101): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(102): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(105): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(106): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(107): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
-c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\entity.cpp(108): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  MAIN.cpp
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(58): warning C4129: :
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(58): warning C4129: D: неизвестная escape-последовательность
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(58): warning C4129: V: неизвестная escape-последовательность
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(58): warning C4129: P: неизвестная escape-последовательность
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(58): warning C4129: T: неизвестная escape-последовательность
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(58): warning C4129: B: неизвестная escape-последовательность
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\йцукен\documents\visual studio 2015\projects\plotf_game\plotfgame_mapeditor\main.cpp(89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
   PlotfGame_MapEditor.vcxproj -> C:\Users\йцукен\Documents\Visual Studio 2015\Projects\Plotf_Game\Debug\PlotfGame.exe
   PlotfGame_MapEditor.vcxproj -> C:\Users\йцукен\Documents\Visual Studio 2015\Projects\Plotf_Game\Debug\PlotfGame.pdb (Full PDB)
